@@ -7,3 +7,11 @@ How are you
 Welcome to  Git World
 
 Added new in remote master
+
+Hello Git
+
+How are you
+
+Welcome to  Git World
+
+Added new in remote master
